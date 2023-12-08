@@ -1,0 +1,23 @@
+:root {
+    --pink: rgb(237, 22, 165);
+}
+
+body {
+    background-color: rgb(61, 57, 57);
+}
+
+h1 {
+    color: var(--pink);
+}
+
+header h1 {
+    text-align: center;
+}
+
+header p {
+    text-align: center;
+}
+
+.whitetext {
+    color: white;
+}
